@@ -1,0 +1,69 @@
+{
+  "emp": [
+    {
+      "name": "hukum",
+      "email": "hcgupta@cstech.in",
+      "mobile": 954010044,
+      "designation": "HR",
+      "gender": "Male",
+      "course": "MCA",
+      "date": "13-Feb-21",
+      "image": "https://nettv4u.com/imagine/c/h/r/i/s/t/christian-oliver.jpg",
+      "id": 1
+    },
+    {
+      "name": "manish",
+      "email": "manish@cstech.in",
+      "mobile": 954010033,
+      "designation": "Sales",
+      "gender": "Male",
+      "course": "BCA",
+      "date": "12-Feb-21",
+      "image": "https://bingeddata.s3.amazonaws.com/uploads/2020/12/christian-oliver.jpg",
+      "id": 2
+    },
+    {
+      "name": "yash",
+      "email": "yash@cstech.in",
+      "mobile": "954010022",
+      "gender": "Male",
+      "course": "BSC",
+      "designation": "Manager",
+      "date": "11-Feb-21",
+      "image": "https://images.unsplash.com/photo-1548251147-dda09867567a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWN0b3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+      "id": 3
+    },
+    {
+      "name": "abhishek",
+      "email": "abhishek@cstech.in",
+      "mobile": "954010033",
+      "gender": "Male",
+      "course": "MCA",
+      "designation": "HR",
+      "date": "13-Feb-21",
+      "image": "https://images.unsplash.com/photo-1548251147-dda09867567a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YWN0b3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=1000&q=60",
+      "id": 4
+    },
+    {
+      "name": "Kishan Kumar",
+      "email": "kishanachar8@gmail.com",
+      "mobile": "9964203996",
+      "gender": "",
+      "designation": "hr",
+      "course": "MCA",
+      "image": "data:image/jpeg;base64,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",
+      "date": "2023-03-29",
+      "id": 5
+    }
+  ],
+  "login": [
+    {
+      "email": "kishanachar8@gmail.com",
+      "password": "kishan"
+    },
+    {
+      "email": "admin@admin.com",
+      "password": "admin"
+    }
+  ]
+}
